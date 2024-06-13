@@ -1,0 +1,9 @@
+version: "3.0"
+
+services:
+  vm_git:
+    build: .
+    container_name: "vm_git"
+    volumes:
+      - ./work:/work
+    tty: true
