@@ -11,10 +11,10 @@
 6. `git config --global user.email "you@example.com"`
 7. `git config --global user.name "Your Name"`
 8. `git -T git@github.com` (check)
-9. mkdir sample_repository
-10. cd sample_repository
-11. git init
-12. git add .
-13. git commit -m "first commit"
-14. git remote add origin git@github.com:{username}/{repository_name}.git
-15. git push origin master
+9. `mkdir sample_repository`
+10. `cd sample_repository`
+11. `git init`
+12. `git add .`
+13. `git commit -m "first commit"`
+14. `git remote add origin git@github.com:{username}/{repository_name}.git`
+15. `git push origin master`
