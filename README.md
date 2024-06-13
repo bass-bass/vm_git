@@ -16,4 +16,5 @@
 11. git init
 12. git add .
 13. git commit -m "first commit"
-14. git push origin master
+14. git remote add origin git@github.com:{username}/{repository_name}.git
+15. git push origin master
